@@ -1,15 +1,13 @@
-﻿using System;
+﻿using finQuick.Pages;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace finQuick
 {
-    class Program
+    class Program : Driver
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
