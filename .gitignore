@@ -260,3 +260,4 @@ paket-files/
 __pycache__/
 *.pyc
 /finQuick/Secrets.cs
+/finQuick/Secrets
